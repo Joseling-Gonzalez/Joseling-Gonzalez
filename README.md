@@ -5,12 +5,8 @@
 
 ## Tech Stack
 
-<img src= "https://img.shields.io/badge/C Sharp / .NET-0DB1BD?style=for-the-badge" />
-<img src= "https://img.shields.io/badge/SQL Server-0DB1BD?style=for-the-badge" />
-<img src= "https://img.shields.io/badge/CSS-0DB1BD?style=for-the-badge" />
-<img src= "https://img.shields.io/badge/Bootstrap-0DB1BD?style=for-the-badge" />
-<img src= "https://img.shields.io/badge/GIT-0DB1BD?style=for-the-badge" />
-<img src= "https://img.shields.io/badge/GitHub-0DB1BD?style=for-the-badge" />
+<img src= "https://img.shields.io/badge/C Sharp / .NET-0DB1BD?style=for-the-badge" /> <img src= "https://img.shields.io/badge/SQL Server-0DB1BD?style=for-the-badge" /> <img src= "https://img.shields.io/badge/CSS-0DB1BD?style=for-the-badge" /> <img src= "https://img.shields.io/badge/Bootstrap-0DB1BD?style=for-the-badge" /> <img src= "https://img.shields.io/badge/GIT-0DB1BD?style=for-the-badge" /> <img src= "https://img.shields.io/badge/GitHub-0DB1BD?style=for-the-badge" />
+
 
 ## :computer: GitHub Stats
 
