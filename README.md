@@ -11,11 +11,11 @@
 ## :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
-2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/entrenamientoGit-GitHub](https://github.com/Joseling-Gonzalez/entrenamientoGit-GitHub)<br>
-3. ✌️ Released [v0.1.0](https://github.com/Joseling-Gonzalez/Releases/releases/tag/v0.1.0) in [Joseling-Gonzalez/Releases](https://github.com/Joseling-Gonzalez/Releases)<br>
-4. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/Releases](https://github.com/Joseling-Gonzalez/Releases)<br>
-5. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/Releases](https://github.com/Joseling-Gonzalez/Releases)<br>
+2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/entrenamientoGit-GitHub](https://github.com/Joseling-Gonzalez/entrenamientoGit-GitHub)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 15th, 2025, 12:21:05 PM
+Last Updated: Sunday, November 16th, 2025, 1:01:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
