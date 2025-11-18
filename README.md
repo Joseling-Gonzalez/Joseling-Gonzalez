@@ -10,12 +10,12 @@
 
 ## :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
-2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/portafolio](https://github.com/Joseling-Gonzalez/portafolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
+4. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/entrenamientoGit-GitHub](https://github.com/Joseling-Gonzalez/entrenamientoGit-GitHub)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 17th, 2025, 12:24:20 PM
+Last Updated: Tuesday, November 18th, 2025, 12:57:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
