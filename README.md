@@ -10,12 +10,12 @@
 
 ## :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Joseling-Gonzalez/naming-convention](https://github.com/Joseling-Gonzalez/naming-convention) from [Joseling-Gonzalez/naming-convention](https://github.com/Joseling-Gonzalez/naming-convention)<br>
+1. 🔱 Forked [Joseling-Gonzalez/naming-convention](https://github.com/Joseling-Gonzalez/naming-convention) from [ktaranov/naming-convention](https://github.com/ktaranov/naming-convention)<br>
 2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
 3. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 12:25:45 PM
+Last Updated: Tuesday, December 2nd, 2025, 12:58:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
