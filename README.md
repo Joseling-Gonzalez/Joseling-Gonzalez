@@ -10,9 +10,7 @@
 
 ## :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/proyecto-ef](https://github.com/Joseling-Gonzalez/proyecto-ef)<br>
-2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/proyecto-ef](https://github.com/Joseling-Gonzalez/proyecto-ef)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 5th, 2026, 12:39:19 PM
+Last Updated: Friday, February 6th, 2026, 1:11:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
