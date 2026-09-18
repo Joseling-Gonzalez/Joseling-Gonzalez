@@ -12,10 +12,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/software-engineering-blog](https://github.com/Joseling-Gonzalez/software-engineering-blog)<br>
 2. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/software-engineering-blog](https://github.com/Joseling-Gonzalez/software-engineering-blog)<br>
-3. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/software-engineering-blog](https://github.com/Joseling-Gonzalez/software-engineering-blog)<br>
 4. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/software-engineering-blog](https://github.com/Joseling-Gonzalez/software-engineering-blog)<br>
-5. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/software-engineering-blog](https://github.com/Joseling-Gonzalez/software-engineering-blog)<br>
+5. ⬆️ Pushed undefined commit(s) to [Joseling-Gonzalez/joseling-gonzalez.github.io](https://github.com/Joseling-Gonzalez/joseling-gonzalez.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 18th, 2026, 2:14:55 AM
+Last Updated: Friday, September 18th, 2026, 3:27:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
